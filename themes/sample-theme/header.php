@@ -54,6 +54,8 @@
 			?>
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
+		
+		<h2>NEW HEADER FIX</h2>
 
 		<h1>FIX HEADER</h1>
 
