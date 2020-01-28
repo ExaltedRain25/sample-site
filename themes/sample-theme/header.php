@@ -48,7 +48,7 @@
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'sample-theme' ); ?></button>
 			<?php
 			wp_nav_menu( array(
-				'theme_location' => 'menu-primary',
+				'theme_location' => 'menu',
 				'menu_id'        => 'primary-menu',
 			) );
 			?>
@@ -56,5 +56,7 @@
 	</header><!-- #masthead -->
 		
 		<h2>NEW HEADER FIX</h2>
+
+		<h1>FIX HEADER</h1>
 
 	<div id="content" class="site-content">
